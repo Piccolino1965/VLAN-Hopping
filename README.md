@@ -1,5 +1,6 @@
 # aiutocomputerhelp-VLAN-Hopping
 https://www.aiutocomputerhelp.it/viaggiare-tra-vlan-e-possibile-fare-hop-il-vlan-hopping/
+
 This software is a proof-of-concept (PoC) of a VLAN Hopping attack based on DTP (Dynamic Trunking Protocol). 
 Specifically, it attempts to send DTP packets to a Cisco switch to negotiate a trunk connection and potentially gain access to more VLANs than those allowed for a standard user.
 
